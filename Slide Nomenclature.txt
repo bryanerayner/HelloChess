@@ -1,0 +1,46 @@
+Snapshot of Slide Nomenclature file on Google Drive.
+
+Reflects the intended content of each section of the director file. Nomenclature, followed by purpose.
+
+
+
+
+
+I_splash - Splash Screen. First frame
+
+I_main - Introduction, main menu
+
+>>The following need not be linear, as they will be connected via the main navigation. (This may change, update this file to reflect what needs to be done with linearity.)
+
+O_piec - Overview, pieces
+	All pieces slides
+	P_pwn		Pawn
+	P_bsp		Bishop
+	P_kni		Knight
+	P_rk		Rook
+	P_que		Queen
+	P_king		King
+
+O_rule - Overview, rules
+	All rules slides
+	R_int		Introduction to the rules
+	R_stup		Setting up the board
+	R_not		Board notation
+	R_mov		Moving the pieces and taking turns
+	R_cast		Castling
+	R_prom	Promotion - When a pawn gets to the other side
+	R_chk		Check
+	R_chkMv	Moving out of Check
+	R_chkMt	Checkmate
+	R_stlMt	Stalemate
+
+O_strat - Overview, strategy
+	All strategy slides
+	S_init		Introduction to the strategy
+	S_exch	Explanation of understanding a good exchange
+	S_pin		Explanation of pinning
+	S_cntr		Explanation of controlling the center
+
+T_prod	- Promotion of other “Hello ______!” series products.
+
+T_cred	- Tyrnstyle Credits

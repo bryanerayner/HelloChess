@@ -1,0 +1,1 @@
+Hello Chess! is an interactive slideshow teaching adult beginners the essentials of playing chess.

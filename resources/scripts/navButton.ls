@@ -15,6 +15,9 @@ on mouseUp me
   
 end
 
+on hcGoPlay()
+  
+end
 
 
 on getPropertyDescriptionList me
@@ -25,3 +28,10 @@ on getPropertyDescriptionList me
   addProp list, #pOrigin, [#comment: "The frame label that this link calls 'Home'. Should be first frame label where this button occurs.", #format: #string, #default: "Null"]
   return list
 end
+
+
+
+
+
+--Desired functionality:
+-- animation between navigation and the next frame.

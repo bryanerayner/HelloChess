@@ -10,35 +10,35 @@ M_main - Introduction, Title
 
 O_intro - Overview, introduction
 	I_about 	About the game
-	I_howto		How to Play
-	I_capt		Capture
+	I_howto	How to Play
+	I_capt		Capture							5 sub slides
 
 O_piec - Overview, pieces
 	All pieces slides
-	P_pwn		Pawn
-	P_bsp		Bishop
-	P_kni		Knight
-	P_rk		Rook
-	P_que		Queen
-	P_king		King
+	P_pwn		Pawn								x sub slides
+	P_bsp		Bishop								x sub slides
+	P_kni		Knight								x sub slides
+	P_rk		Rook								x sub slides
+	P_que		Queen								x sub slides
+	P_king		King								x sub slides
 
 O_rule - Overview, rules
 	All rules slides
-	R_point		Points
-	R_stup		The board
-	R_not		Board notation
-	R_start		Starting the game
-	R_cast		Castling
-	R_chk		Check
-	R_chkMv		Moving out of Check
-	R_chkMt		Checkmate
-	R_stlMt		Stalemate
+	R_point		Points							x sub slides
+	R_stup		The board							x sub slides
+	R_not		Board notation							x sub slides
+	R_start		Starting the game					x sub slides
+	R_cast		Castling							x sub slides
+	R_chk		Check								x sub slides
+	R_chkMv		Moving out of Check					x sub slides
+	R_chkMt		Checkmate						x sub slides
+	R_stlMt		Stalemate						x sub slides
 
 O_strat - Overview, strategy
 	All strategy slides
-	S_exch	Explanation of understanding a good exchange
-	S_pin		Explanation of pinning
-	S_cntr		Explanation of controlling the center
+	S_exch	Explanation of understanding a good exchange		x sub slides
+	S_pin		Explanation of pinning						x sub slides
+	S_cntr		Explanation of controlling the center				x sub slides
 
 M_fin
 
@@ -47,3 +47,5 @@ M_quit
 T_prod	- Promotion of other “Hello ______!” series products.
 
 T_cred	- Tyrnstyle Credits
+
+

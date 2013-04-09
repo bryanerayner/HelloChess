@@ -1,16 +1,17 @@
-Snapshot of Slide Nomenclature file on Google Drive.
+Director file notation of slides.
 
-Reflects the intended content of each section of the director file. Nomenclature, followed by purpose.
+M_splash - Splash Screen. First frame
 
+M_start - Start Screen
 
-
-
-
-I_splash - Splash Screen. First frame
-
-I_main - Introduction, main menu
+M_main - Introduction, Title
 
 >>The following need not be linear, as they will be connected via the main navigation. (This may change, update this file to reflect what needs to be done with linearity.)
+
+O_intro - Overview, introduction
+	I_about 	About the game
+	I_howto		How to Play
+	I_capt		Capture
 
 O_piec - Overview, pieces
 	All pieces slides
@@ -23,23 +24,25 @@ O_piec - Overview, pieces
 
 O_rule - Overview, rules
 	All rules slides
-	R_int		Introduction to the rules
-	R_stup		Setting up the board
+	R_point		Points
+	R_stup		The board
 	R_not		Board notation
-	R_mov		Moving the pieces and taking turns
+	R_start		Starting the game
 	R_cast		Castling
-	R_prom	Promotion - When a pawn gets to the other side
 	R_chk		Check
-	R_chkMv	Moving out of Check
-	R_chkMt	Checkmate
-	R_stlMt	Stalemate
+	R_chkMv		Moving out of Check
+	R_chkMt		Checkmate
+	R_stlMt		Stalemate
 
 O_strat - Overview, strategy
 	All strategy slides
-	S_init		Introduction to the strategy
 	S_exch	Explanation of understanding a good exchange
 	S_pin		Explanation of pinning
 	S_cntr		Explanation of controlling the center
+
+M_fin
+
+M_quit
 
 T_prod	- Promotion of other “Hello ______!” series products.
 

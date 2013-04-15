@@ -1,0 +1,91 @@
+
+M_splash_snd_1
+
+M_start_snd_1
+
+M_main_snd_1
+
+
+O_intro_snd_1
+	I_about_snd_1
+	I_about_snd_2
+
+	I_howto_snd_1
+
+	I_capt_snd_1		
+	I_capt_snd_2		
+	I_capt_snd_3		
+	I_capt_snd_4		
+	I_capt_snd_5		
+
+
+O_piec_snd_1
+	
+	P_pwn_snd_1
+	P_pwn_snd_2
+	P_pwn_snd_3
+	P_pwn_snd_4
+	P_pwn_snd_5
+
+	P_bsp_snd_1		
+	P_bsp_snd_2		
+	P_bsp_snd_3		
+	P_bsp_snd_4
+		
+	P_kni_snd_1		
+	P_kni_snd_2
+	P_kni_snd_3
+	P_kni_snd_4
+
+	P_rk_snd_1
+	P_rk_snd_2
+	P_rk_snd_3
+	P_rk_snd_4
+
+	P_que_snd_1
+	P_que_snd_2
+	P_que_snd_3
+
+	P_king_snd_1
+	P_king_snd_2
+	P_king_snd_3		
+
+
+O_rule_snd_1
+
+	R_point_snd_1	
+	R_stup_snd_1	
+	R_not_snd_1	
+
+	R_start_snd_1
+	R_start_snd_2
+	R_start_snd_3
+	R_start_snd_4
+	R_start_snd_5
+
+	R_cast_snd_1
+	R_cast_snd_2
+	R_cast_snd_3
+	R_cast_snd_4
+	R_cast_snd_5
+	R_cast_snd_6
+
+	R_chk_snd_1	
+	R_chkMv_snd_1
+	R_chkMv_snd_1
+	R_chkMt_snd_1		
+	R_stlMt_snd_1		
+
+O_strat_snd_1
+	
+S_exch_snd_1	
+S_pin_snd_1	
+S_cntr_snd_1	
+
+M_fin_snd_1
+
+M_quit_snd_1
+
+T_prod_snd_1
+
+T_cred_snd_1

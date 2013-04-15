@@ -10,13 +10,13 @@ property pPlaying
 on beginSprite me
   pMySound = sound(pChannel)
   pPlaying = TRUE
-  sound playFile pChannel, pSource 
+  sound playFile pChannel, _movie.path&"resources\audio\"&pSource 
   
 end
 
 on mouseUp me
   if pPlaying = FALSE then
-    sound playFile pChannel, pSource
+    sound playFile pChannel, _movie.path&"resources\audio\"&pSource
     pPlaying = TRUE
   else
     sound(pChannel).stop()
@@ -29,7 +29,9 @@ on exitFrame me
   if pMySound.volume = 0 OR pMySound.status = 0 then
     pMySound.stop()
     if pBehavior = "Link" then
-      _movie.go(marker(pLink))
+      if pLink = "Null" then
+        _movie.go(marker(pLink))
+      end if
     end if
     if pBehavior = "Next" then
       _movie.goNext()

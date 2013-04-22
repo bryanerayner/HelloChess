@@ -26,6 +26,11 @@ end
 
 on exitFrame me
   --   stop if volume = 0 or idle and link to the next slide.
+  if _global.dontSkip > 0 then
+    _global.dontSkip = _global.dontSkip - 1
+    return
+  end if
+  
   if _global.dontPlay = false then
     if pMySound.volume = 0 OR pMySound.status = 0 then
       pMySound.stop()

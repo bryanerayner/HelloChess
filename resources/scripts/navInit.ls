@@ -1,6 +1,10 @@
 ﻿
+
+
+
 on startMovie
   initializeNavigation()
+_global.dontPlay = false
 end
 
 
